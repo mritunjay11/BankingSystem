@@ -27,16 +27,16 @@ java BankingSystem
 ### Banking System Output
 
 #### Main Menu
-![Main Menu](./screenshot/menu.png)
+![Main Menu](./screenshort/menu.png)
 
 #### Create Account
 ![Create Account](./screenshort/user.png)
 
 #### Deposit Money
-![Deposit Money](./screenshot/deposit.png)
+![Deposit Money](./screenshort/deposit.png)
 
 #### Withdraw Money
-![Withdraw Money](./screenshot/withdraw.png)
+![Withdraw Money](./screenshort/withdraw.png)
 
 ## Project Structure
 
