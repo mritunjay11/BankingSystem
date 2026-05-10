@@ -20,19 +20,38 @@ A simple console-based Banking System project developed using Java.
 ```bash
 javac BankingSystem.java
 java BankingSystem
+```
 
 ## Screenshots
 
 ### Banking System Output
 
 #### Main Menu
-![Main Menu](screenshot/menu.png)
+![Main Menu](./screenshot/menu.png)
 
 #### Create Account
-![Create Account](screenshot/user.png)
+![Create Account](./screenshort/user.png)
 
 #### Deposit Money
-![Deposit Money](screenshot/deposit.png)
+![Deposit Money](./screenshot/deposit.png)
 
 #### Withdraw Money
-![Withdraw Money](screenshot/withdraw.png)
+![Withdraw Money](./screenshot/withdraw.png)
+
+## Project Structure
+
+```text
+Banking-System-Java
+│
+├── BankingSystem.java
+├── README.md
+└── screenshot
+    ├── menu.png
+    ├── user.png
+    ├── deposit.png
+    └── withdraw.png
+```
+
+## Author
+
+Mritunjay Bhardwaj
