@@ -1,0 +1,38 @@
+# Banking System in Java
+
+A simple console-based Banking System project developed using Java.
+
+## Features
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Account Details
+- Display All Accounts
+
+## Technologies Used
+- Java
+- OOP Concepts
+- ArrayList
+- Scanner Class
+
+## Run Project
+
+```bash
+javac BankingSystem.java
+java BankingSystem
+
+## Screenshots
+
+### Banking System Output
+
+#### Main Menu
+![Main Menu](screenshot/menu.png)
+
+#### Create Account
+![Create Account](screenshot/user.png)
+
+#### Deposit Money
+![Deposit Money](screenshot/deposit.png)
+
+#### Withdraw Money
+![Withdraw Money](screenshot/withdraw.png)
